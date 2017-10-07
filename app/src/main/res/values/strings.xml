@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Motico</string>
+
+    <string name="subscribe">Subscribe</string>
+    <string name="try_button">Try</string>
+    <string name="welcome_msg">Motico\n\nIndulge your senses!\n\n$4.99 a month!</string>
+    <string name="album_name">Album Name</string>
+    <string name="now_playing_track">Taylor Swift - Blank Space</string>
+    <string name="now_playing">Now playing:\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t Click for Playlist</string>
+    <string name="playlist_description">Here we will have the PlayList Queue. Grayed item is the playing track. I should\'ve added a minimize button to hide the list. For now click on Now playing bar to HIDE. Clicking on any item will send us to the player to play this song.</string>
+    <string name="main_activity_desc">This activity is where you will browse the library and go to other libraries</string>
+    <string name="pop">Pop</string>
+    <string name="rock">Rock</string>
+    <string name="jazz">Jazz</string>
+    <string name="prev">Prev</string>
+    <string name="play">Play</string>
+    <string name="next">Next</string>
+    <string name="pause">Pause</string>
+    <string name="list_activity_desc">Here we list the tracks of this genre and a click on it will take us to the player to play it</string>
+    <string name="player_activity_desc">Here is our player, I implemented MediaPlayer for test with seeker functioning perfectly!</string>
+</resources>
